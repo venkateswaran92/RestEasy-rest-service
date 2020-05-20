@@ -13,5 +13,5 @@ This repo is simple rest-easy example.
 2.curl -X DELETE localhost:8080/RestEasy-rest-service/rest/cities/1
 3.localhost:8080/RestEasy-rest-service/rest/cities/
 
-# Swagger-document
+# Swagger-document:
 localhost:8080/RestEasy-rest-service/doc/index.html
