@@ -3,7 +3,7 @@ This repo is simple rest-easy example.
 1.MVC parttens
 2.filters
 3.custom excpetion handling
-4.sring JDBC templete
+4.spring JDBC templete
 5.swagger documentation
 6.JWT token
 7.H2-database
